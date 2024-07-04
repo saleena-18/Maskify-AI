@@ -45,3 +45,14 @@ To set up the project locally, follow these steps:
     ```bash
     flask run
     ```
+## Model Training Process
+
+### Training Phase:
+- **Configuration Setup:** The model is trained using the `train.py` script with specified parameters for workers, batch size, epochs, image size, configuration file, dataset details, hyperparameters, and device allocation.
+- **Model Training:** The YOLOv7 architecture is employed for 120 epochs, customized for the face mask detection task.
+
+### Evaluation and Analysis:
+- **Analysis and Metrics:** Post-training, the model's performance is evaluated using the `test.py` script, generating various metrics and visualizations like predictions, results, confusion matrices, and precision-recall curves.
+
+### Inference and Deployment:
+- **Model Deployment:** The trained model is utilized for real-time inference on images and videos using the `detect.py` script.
