@@ -19,8 +19,6 @@ Maskify AI is a Face Mask Detection System, a YOLOv7-based deep learning model t
 
 ## Installation
 
-To set up the project locally, follow these steps:
-
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/saleena-18/Maskify-AI.git
