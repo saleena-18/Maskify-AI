@@ -10,14 +10,14 @@ Maskify AI is a Face Mask Detection System, a YOLOv7-based deep learning model t
 - [Features](#features)
 - [Installation](#installation)
 
-## Features
+## Features:
 
 - Real-time face mask detection in images and videos.
 - User-friendly web interface for uploading and processing files.
 - Detailed performance metrics and visualizations.
 - Efficient video compression and display.
 
-## Installation
+## Installation:
 
 1. **Clone the repository:**
     ```bash
